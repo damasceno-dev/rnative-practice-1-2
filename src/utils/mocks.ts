@@ -1,5 +1,4 @@
 import dayjs from "dayjs"
-import { currencyFormat } from "./currencyFormat"
 
 const transactions = [
   {
