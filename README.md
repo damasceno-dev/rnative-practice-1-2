@@ -6,11 +6,20 @@
 
 ## Project description:
 Second project made on React Native Practice #1 promoted by RocketSeat.
+starting point: https://github.com/orodrigogo/react-native-na-pratica-2
 
 ## Main libs used:
-* sqlite
+* expo sqlite (next)
 * expo router
 * nativewind
 
 ## User Instructions:
-(to-do)
+
+### 1) Enter a new Goal
+![React Native Practice #1 - Example 1](1.png "React Native Practice #1 - MyGoals app Example 1")
+
+### 2) Enter a new transaction
+![React Native Practice #1 - Example 2](2.png "React Native Practice #1 - MyGoals app Example 2")
+
+### 1) Follow your savings according to your goals
+![React Native Practice #1 - Example 3](3.png "React Native Practice #1 - MyGoals app Example 3")
