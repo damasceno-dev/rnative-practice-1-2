@@ -21,5 +21,5 @@ starting point: https://github.com/orodrigogo/react-native-na-pratica-2
 ### 2) Enter a new transaction
 ![React Native Practice #1 - Example 2](.github/2.png "React Native Practice #1 - MyGoals app Example 2")
 
-### 1) Follow your savings according to your goals
+### 3) Follow your savings according to your goals
 ![React Native Practice #1 - Example 3](.github/3.png "React Native Practice #1 - MyGoals app Example 3")
